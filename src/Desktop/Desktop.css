@@ -1,0 +1,1516 @@
+.desktop,
+.desktop * {
+  box-sizing: border-box;
+}
+.desktop {
+  background: #eff5e1;
+  height: 9490px;
+  position: relative;
+  overflow: hidden;
+}
+.desktop .skincare {
+  color: #2d3b36;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 30px;
+  font-weight: 800;
+  text-transform: uppercase;
+  position: absolute;
+  left: 100px;
+  top: 50px;
+}
+.desktop .skincare2 {
+  color: #2d3b36;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 378px;
+  font-weight: 800;
+  text-transform: uppercase;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 982px;
+}
+.desktop .glow-natur-ally {
+  color: #2d3b36;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 100px;
+  line-height: 90px;
+  letter-spacing: -0.03em;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 218px;
+  width: 398px;
+}
+.desktop .all-products {
+  color: #2d3b36;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 717px;
+  top: 53px;
+}
+.desktop .serum {
+  color: #2d3b36;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 881px;
+  top: 53px;
+}
+.desktop .sunscreen {
+  color: #2d3b36;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 992px;
+  top: 53px;
+}
+.desktop .bundle {
+  color: #2d3b36;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 1142px;
+  top: 53px;
+}
+.desktop .cart-1 {
+  color: #293330;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 1645px;
+  top: 53px;
+}
+.cart-1-span {
+  color: #2d3b36;
+}
+.desktop .ellipse-1 {
+  background: #f8fee5;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 1595px;
+  top: 40px;
+}
+.desktop .ellipse-2 {
+  background: #f8fee5;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 1730px;
+  top: 40px;
+}
+.desktop .ellipse-3 {
+  background: #f8fee5;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 1780px;
+  top: 40px;
+}
+.desktop .bag-4-svgrepo-com-1 {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 1605px;
+  top: 50px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.desktop .heart-svgrepo-com-1-1 {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 1740px;
+  top: 50px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.desktop .group-1 {
+  height: auto;
+  position: absolute;
+  left: 1790px;
+  top: 50px;
+  overflow: visible;
+}
+.desktop
+  .transform-your-skincare-routine-with-premium-products-that-restore-protect-and-enhance-your-nautural-glow-every-day {
+  color: #2d3b36;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 100px;
+  top: 301px;
+  width: 335px;
+}
+.desktop
+  .skin-care-beauty-cosmetic-packaging-design-agency-mumbai-delhi-bangalore-india-1 {
+  border-radius: 20px;
+  width: 222.61px;
+  height: 220px;
+  position: absolute;
+  left: 1597px;
+  top: 234px;
+  object-fit: cover;
+  aspect-ratio: 222.61/220;
+}
+.desktop .chat-gpt-image-jun-15-2025-10-24-47-pm-2 {
+  border-radius: 30px;
+  width: 610px;
+  height: 676px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 571px;
+  object-fit: cover;
+}
+.desktop .rectangle-3 {
+  background: #2d3b36;
+  border-radius: 100px;
+  width: 180px;
+  height: 60px;
+  position: absolute;
+  left: 100px;
+  top: 814px;
+}
+.desktop .shop-now {
+  color: #eff5e1;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 141px;
+  top: 836px;
+}
+.desktop .rectangle-4 {
+  background: #eff5e1;
+  border-radius: 200px;
+  width: 476px;
+  height: 100px;
+  position: absolute;
+  left: 722px;
+  top: 1117px;
+}
+.desktop .while-giving-you-an-invigorating-cleansing-experience {
+  color: #2d3b36;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 854px;
+  top: 1148px;
+  width: 304px;
+}
+.desktop .rectangle-5 {
+  background: #eff5e1;
+  border-radius: 50px;
+  border-style: dashed;
+  border-color: #2d3b36;
+  border-width: 1px;
+  width: 88px;
+  height: 88px;
+  position: absolute;
+  left: 728px;
+  top: 1123px;
+  aspect-ratio: 1;
+}
+.desktop
+  .skin-care-beauty-cosmetic-packaging-design-agency-mumbai-delhi-bangalore-india-2 {
+  border-radius: 110px;
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 732px;
+  top: 1127px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.desktop .rectangle-6 {
+  background: #fefff4;
+  width: 1920px;
+  height: 7303px;
+  position: absolute;
+  left: 0px;
+  top: 1257px;
+}
+.desktop
+  .experience-the-ultimate-in-skincare-with-our-expertly-formulated-products-crafted-to-nourish-protect-and-rejuvenate-your-skin-combining-the-finest-natural-ingredients-with-advanced-science-our-collection-ensures-every-skin-type-can-achieve-a-radiant-healthy-glow-embrace-your-beauty-with-confidence-every-day-experience-the-ultimate-in-skincare-with-our-expertly-formulated-products-crafted-to-nourish-protect-and-rejuvenate-your-skin {
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 53px;
+  line-height: 78px;
+  letter-spacing: -0.035em;
+  font-weight: 400;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 1357px;
+}
+.experience-the-ultimate-in-skincare-with-our-expertly-formulated-products-crafted-to-nourish-protect-and-rejuvenate-your-skin-combining-the-finest-natural-ingredients-with-advanced-science-our-collection-ensures-every-skin-type-can-achieve-a-radiant-healthy-glow-embrace-your-beauty-with-confidence-every-day-experience-the-ultimate-in-skincare-with-our-expertly-formulated-products-crafted-to-nourish-protect-and-rejuvenate-your-skin-span {
+  color: #2d3b36;
+}
+.experience-the-ultimate-in-skincare-with-our-expertly-formulated-products-crafted-to-nourish-protect-and-rejuvenate-your-skin-combining-the-finest-natural-ingredients-with-advanced-science-our-collection-ensures-every-skin-type-can-achieve-a-radiant-healthy-glow-embrace-your-beauty-with-confidence-every-day-experience-the-ultimate-in-skincare-with-our-expertly-formulated-products-crafted-to-nourish-protect-and-rejuvenate-your-skin-span2 {
+  color: rgba(45, 59, 54, 0.3);
+}
+.desktop .rectangle-7 {
+  background: #fefff4;
+  border-radius: 100px;
+  border-style: solid;
+  border-color: #2d3b36;
+  border-width: 1px;
+  width: 260px;
+  height: 60px;
+  position: absolute;
+  left: 100px;
+  top: 2164px;
+}
+.desktop .rectangle-33 {
+  background: #fefff4;
+  border-radius: 100px;
+  border-style: solid;
+  border-color: #2d3b36;
+  border-width: 1px;
+  width: 341px;
+  height: 60px;
+  position: absolute;
+  left: 1100px;
+  top: 7510px;
+}
+.desktop .rectangle-34 {
+  background: #fefff4;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #2d3b36;
+  border-width: 1px;
+  width: 600px;
+  height: 70px;
+  position: absolute;
+  left: 1100px;
+  top: 7960px;
+}
+.desktop .rectangle-36 {
+  background: #fefff4;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #2d3b36;
+  border-width: 1px;
+  width: 600px;
+  height: 70px;
+  position: absolute;
+  left: 1100px;
+  top: 8176px;
+}
+.desktop .rectangle-37 {
+  background: #fefff4;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #2d3b36;
+  border-width: 1px;
+  width: 600px;
+  height: 70px;
+  position: absolute;
+  left: 1100px;
+  top: 8256px;
+}
+.desktop .rectangle-38 {
+  background: #fefff4;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #2d3b36;
+  border-width: 1px;
+  width: 600px;
+  height: 70px;
+  position: absolute;
+  left: 1100px;
+  top: 8336px;
+}
+.desktop .rectangle-35 {
+  background: #fefff4;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #2d3b36;
+  border-width: 1px;
+  width: 600px;
+  height: 126px;
+  position: absolute;
+  left: 1100px;
+  top: 8040px;
+}
+.desktop .rectangle-8 {
+  background: #fefff4;
+  border-radius: 100px;
+  border-style: solid;
+  border-color: #2d3b36;
+  border-width: 1px;
+  width: 290px;
+  height: 60px;
+  position: absolute;
+  left: 100px;
+  top: 3518px;
+}
+.desktop .rectangle-26 {
+  background: #2d3b36;
+  border-radius: 100px;
+  width: 194px;
+  height: 60px;
+  position: absolute;
+  left: 547px;
+  top: 6310px;
+}
+.desktop .rectangle-27 {
+  background: #fefff4;
+  border-radius: 100px;
+  border-style: solid;
+  border-color: #2d3b36;
+  border-width: 1px;
+  width: 175px;
+  height: 60px;
+  position: absolute;
+  left: 761px;
+  top: 6310px;
+}
+.desktop .rectangle-28 {
+  background: #fefff4;
+  border-radius: 100px;
+  border-style: solid;
+  border-color: #2d3b36;
+  border-width: 1px;
+  width: 205px;
+  height: 60px;
+  position: absolute;
+  left: 956px;
+  top: 6310px;
+}
+.desktop .rectangle-29 {
+  background: #fefff4;
+  border-radius: 100px;
+  border-style: solid;
+  border-color: #2d3b36;
+  border-width: 1px;
+  width: 192px;
+  height: 60px;
+  position: absolute;
+  left: 1181px;
+  top: 6310px;
+}
+.desktop .why-our-products {
+  color: #2d3b36;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 158px;
+  top: 2186px;
+}
+.desktop .frequently-asked-question {
+  color: #2d3b36;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 1159px;
+  top: 7532px;
+}
+.desktop .are-your-products-safe-for-sensitive-skin {
+  color: #2d3b36;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 1130px;
+  top: 7987px;
+}
+.desktop .what-s-your-return-policy {
+  color: #2d3b36;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 1130px;
+  top: 8203px;
+}
+.desktop .do-you-ship-internationally {
+  color: #2d3b36;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 1130px;
+  top: 8283px;
+}
+.desktop .how-do-i-choose-the-right-product {
+  color: #2d3b36;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 1130px;
+  top: 8363px;
+}
+.desktop .are-your-products-cruelty-free {
+  color: #2d3b36;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 1130px;
+  top: 8067px;
+}
+.desktop .best-selling-products {
+  color: #2d3b36;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 159px;
+  top: 3540px;
+}
+.desktop .new-arrival {
+  color: #fefff4;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 577px;
+  top: 6332px;
+}
+.desktop .cleansing {
+  color: #2d3b36;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 791px;
+  top: 6332px;
+}
+.desktop .acne-fighter {
+  color: #2d3b36;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 986px;
+  top: 6332px;
+}
+.desktop .anti-agging {
+  color: #2d3b36;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 1211px;
+  top: 6332px;
+}
+.desktop .ellipse-4 {
+  background: #2d3b36;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 119px;
+  top: 2184px;
+  aspect-ratio: 1;
+}
+.desktop .ellipse-8 {
+  background: #2d3b36;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 1119px;
+  top: 7530px;
+  aspect-ratio: 1;
+}
+.desktop .ellipse-5 {
+  background: #2d3b36;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 120px;
+  top: 3538px;
+  aspect-ratio: 1;
+}
+.desktop .your-skin-deserves-the-best-care {
+  color: #2d3b36;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 60px;
+  letter-spacing: -0.02em;
+  font-weight: 400;
+  position: absolute;
+  left: 100px;
+  top: 2324px;
+}
+.desktop .skincare-that-brings-out-your-natural-radiance {
+  color: #2d3b36;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 60px;
+  letter-spacing: -0.02em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 320px);
+  top: 3490px;
+}
+.desktop .feel-beautiful-inside-and-out-with-every-product {
+  color: #2d3b36;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 60px;
+  letter-spacing: -0.02em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 370px);
+  top: 6123px;
+}
+.desktop .answers-to-your-skincare-questions-all-in-one-place {
+  color: #2d3b36;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 60px;
+  letter-spacing: -0.02em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -140px);
+  top: 7670px;
+}
+.desktop ._01 {
+  background: linear-gradient(
+    180deg,
+    rgba(41, 51, 48, 1) 0%,
+    rgba(254, 255, 244, 1) 100%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 60px;
+  letter-spacing: -0.02em;
+  font-weight: 400;
+  position: absolute;
+  left: 100px;
+  top: 2652px;
+}
+.desktop ._02 {
+  background: linear-gradient(
+    180deg,
+    rgba(41, 51, 48, 1) 0%,
+    rgba(254, 255, 244, 1) 100%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 60px;
+  letter-spacing: -0.02em;
+  font-weight: 400;
+  position: absolute;
+  left: 100px;
+  top: 2883px;
+}
+.desktop ._03 {
+  background: linear-gradient(
+    180deg,
+    rgba(41, 51, 48, 1) 0%,
+    rgba(254, 255, 244, 1) 100%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 60px;
+  letter-spacing: -0.02em;
+  font-weight: 400;
+  position: absolute;
+  left: 100px;
+  top: 3114px;
+}
+.desktop .bio-ingredients {
+  color: #2d3b36;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 60px;
+  letter-spacing: -0.02em;
+  font-weight: 400;
+  position: absolute;
+  left: 213px;
+  top: 2652px;
+}
+.desktop .everything-natural {
+  color: #2d3b36;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 60px;
+  letter-spacing: -0.02em;
+  font-weight: 400;
+  position: absolute;
+  left: 213px;
+  top: 2883px;
+}
+.desktop .since-2001 {
+  color: #2d3b36;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  letter-spacing: -0.02em;
+  font-weight: 400;
+  text-transform: uppercase;
+  position: absolute;
+  left: 971px;
+  top: 3275px;
+}
+.desktop .learn-more {
+  color: #2d3b36;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  letter-spacing: -0.02em;
+  font-weight: 400;
+  text-transform: uppercase;
+  position: absolute;
+  left: 1695px;
+  top: 3275px;
+}
+.desktop .all-handmade {
+  color: #2d3b36;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 60px;
+  letter-spacing: -0.02em;
+  font-weight: 400;
+  position: absolute;
+  left: 213px;
+  top: 3114px;
+}
+.desktop
+  .discover-a-curated-collection-of-skincare-products-designed-to-rejuvenate-protect-and-pamper-your-skin-explore-our-rage-crafted-with-love-backed-by-science-and-inspired-by-nature {
+  color: #525349;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 24px;
+  letter-spacing: -0.02em;
+  font-weight: 400;
+  position: absolute;
+  left: 100px;
+  top: 2491px;
+}
+.desktop
+  .get-naturally-beautiful-and-transform-with-our-bio-ingredients-creams-for-healthy-radiant-skin {
+  color: #525349;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 24px;
+  letter-spacing: -0.02em;
+  font-weight: 400;
+  position: absolute;
+  left: 213px;
+  top: 2746px;
+}
+.desktop
+  .pure-ingredients-for-pure-skin-the-perfect-solution-for-your-skin-care-needs {
+  color: #525349;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 24px;
+  letter-spacing: -0.02em;
+  font-weight: 400;
+  position: absolute;
+  left: 213px;
+  top: 2977px;
+}
+.desktop
+  .absolutely-all-our-products-are-cruelty-free-and-most-are-vegan-check-individual-product-details-for-specifics {
+  color: #525349;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 1130px;
+  top: 8112px;
+}
+.desktop
+  .made-with-love-and-care-just-for-you-give-your-skin-the-tender-loving-care-it-deserves {
+  color: #525349;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 24px;
+  letter-spacing: -0.02em;
+  font-weight: 400;
+  position: absolute;
+  left: 213px;
+  top: 3208px;
+}
+.desktop .chat-gpt-image-jun-15-2025-11-52-20-pm-1 {
+  border-radius: 30px;
+  width: 849px;
+  height: 1081px;
+  position: absolute;
+  left: 971px;
+  top: 2164px;
+  object-fit: cover;
+  aspect-ratio: 849/1081;
+}
+.desktop .ellipse-6 {
+  background: #2d3b36;
+  border-radius: 50%;
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 1740px;
+  top: 3509px;
+  aspect-ratio: 1;
+}
+.desktop .arrow-1 {
+  width: 40px;
+  height: 0px;
+  position: absolute;
+  left: 1740px;
+  top: 3549px;
+  transform: translate(-1px, -7.36px);
+  overflow: visible;
+}
+.desktop .ellipse-7 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #2d3b36;
+  border-width: 1px;
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 1580px;
+  top: 3509px;
+  aspect-ratio: 1;
+}
+.desktop .arrow-2 {
+  width: 40px;
+  height: 0px;
+  position: absolute;
+  left: 1620px;
+  top: 3549px;
+  transform: translate(-1px, -7.36px);
+  overflow: visible;
+}
+.desktop .mask-group {
+  height: auto;
+  position: absolute;
+  left: 100px;
+  top: 3707px;
+  overflow: visible;
+}
+.desktop .mask-group2 {
+  height: auto;
+  position: absolute;
+  left: 100px;
+  top: 6440px;
+  overflow: visible;
+}
+.desktop .mask-group3 {
+  height: auto;
+  position: absolute;
+  left: 685px;
+  top: 3707px;
+  overflow: visible;
+}
+.desktop .mask-group4 {
+  height: auto;
+  position: absolute;
+  left: 685px;
+  top: 6440px;
+  overflow: visible;
+}
+.desktop .mask-group5 {
+  height: auto;
+  position: absolute;
+  left: 1270px;
+  top: 3707px;
+  overflow: visible;
+}
+.desktop .mask-group6 {
+  height: auto;
+  position: absolute;
+  left: 1270px;
+  top: 6440px;
+  overflow: visible;
+}
+.desktop .rectangle-12 {
+  background: #fefff4;
+  border-radius: 10px;
+  width: 520px;
+  height: 100px;
+  position: absolute;
+  left: 120px;
+  top: 4357px;
+}
+.desktop .rectangle-20 {
+  background: #fefff4;
+  border-radius: 10px;
+  width: 520px;
+  height: 100px;
+  position: absolute;
+  left: 120px;
+  top: 7090px;
+}
+.desktop .rectangle-14 {
+  background: #fefff4;
+  border-radius: 10px;
+  width: 520px;
+  height: 100px;
+  position: absolute;
+  left: 705px;
+  top: 4357px;
+}
+.desktop .rectangle-21 {
+  background: #fefff4;
+  border-radius: 10px;
+  width: 520px;
+  height: 100px;
+  position: absolute;
+  left: 705px;
+  top: 7090px;
+}
+.desktop .rectangle-16 {
+  background: #fefff4;
+  border-radius: 10px;
+  width: 510px;
+  height: 100px;
+  position: absolute;
+  left: 1290px;
+  top: 4357px;
+}
+.desktop .rectangle-22 {
+  background: #fefff4;
+  border-radius: 10px;
+  width: 510px;
+  height: 100px;
+  position: absolute;
+  left: 1290px;
+  top: 7090px;
+}
+.desktop .rectangle-13 {
+  background: rgba(45, 59, 54, 0.1);
+  border-radius: 10px;
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 550px;
+  top: 4367px;
+  aspect-ratio: 1;
+}
+.desktop .rectangle-23 {
+  background: rgba(45, 59, 54, 0.1);
+  border-radius: 10px;
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 550px;
+  top: 7100px;
+  aspect-ratio: 1;
+}
+.desktop .rectangle-15 {
+  background: rgba(45, 59, 54, 0.1);
+  border-radius: 10px;
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 1135px;
+  top: 4367px;
+  aspect-ratio: 1;
+}
+.desktop .rectangle-24 {
+  background: #2d3b36;
+  border-radius: 10px;
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 1135px;
+  top: 7100px;
+  aspect-ratio: 1;
+}
+.desktop .rectangle-17 {
+  background: rgba(45, 59, 54, 0.1);
+  border-radius: 10px;
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 1710px;
+  top: 4367px;
+  aspect-ratio: 1;
+}
+.desktop .rectangle-25 {
+  background: rgba(45, 59, 54, 0.1);
+  border-radius: 10px;
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 1710px;
+  top: 7100px;
+  aspect-ratio: 1;
+}
+.desktop .alya-skin-cleanser {
+  color: #2d3b36;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 140px;
+  top: 4377px;
+}
+.desktop .alya-skin-cleanser2 {
+  color: #2d3b36;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 140px;
+  top: 7110px;
+}
+.desktop .ritual-of-sakura {
+  color: #2d3b36;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 725px;
+  top: 4377px;
+}
+.desktop .ritual-of-sakura2 {
+  color: #2d3b36;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 725px;
+  top: 7110px;
+}
+.desktop .the-body-lotion {
+  color: #2d3b36;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 1310px;
+  top: 4377px;
+}
+.desktop .the-body-lotion2 {
+  color: #2d3b36;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 1310px;
+  top: 7110px;
+}
+.desktop .from-29-99 {
+  color: rgba(45, 59, 54, 0.5);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 140px;
+  top: 4425px;
+}
+.desktop .from-29-992 {
+  color: rgba(45, 59, 54, 0.5);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 140px;
+  top: 7158px;
+}
+.desktop .from-27-99 {
+  color: rgba(45, 59, 54, 0.5);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 725px;
+  top: 4427px;
+}
+.desktop .from-27-992 {
+  color: rgba(45, 59, 54, 0.5);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 725px;
+  top: 7160px;
+}
+.desktop .from-19-99 {
+  color: rgba(45, 59, 54, 0.5);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 1310px;
+  top: 4427px;
+}
+.desktop .from-19-992 {
+  color: rgba(45, 59, 54, 0.5);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 1310px;
+  top: 7160px;
+}
+.desktop .cart-large-2-svgrepo-com-1 {
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  left: 575px;
+  top: 4392px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.desktop .cart-large-2-svgrepo-com-4 {
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  left: 575px;
+  top: 7125px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.desktop .cart-large-2-svgrepo-com-2 {
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  left: 1160px;
+  top: 4392px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.desktop .cart-large-2-svgrepo-com-5 {
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  left: 1160px;
+  top: 7125px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.desktop .cart-large-2-svgrepo-com-3 {
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  left: 1735px;
+  top: 4392px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.desktop .cart-large-2-svgrepo-com-6 {
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  left: 1735px;
+  top: 7125px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.desktop .model {
+  border-radius: 30px;
+  width: 1719px;
+  height: 1146px;
+  position: absolute;
+  left: 100px;
+  top: 4777px;
+  object-fit: cover;
+  aspect-ratio: 3/2;
+}
+.desktop .rectangle-18 {
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0) 0%,
+    rgba(41, 51, 48, 1) 100%
+  );
+  border-radius: 30px;
+  width: 1720px;
+  height: 400px;
+  position: absolute;
+  left: 100px;
+  top: 5523px;
+}
+.desktop .feel-beautiful-inside-and-out-with-every-product2 {
+  color: #fefff4;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 80px;
+  letter-spacing: -0.02em;
+  font-weight: 400;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 5573px;
+}
+.desktop .rectangle-19 {
+  background: #fefff4;
+  border-radius: 100px;
+  width: 180px;
+  height: 60px;
+  position: absolute;
+  left: 870px;
+  top: 5793px;
+}
+.desktop .shop-now2 {
+  color: #2d3b36;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 911px;
+  top: 5815px;
+}
+.desktop .rectangle-30 {
+  background: #eff5e1;
+  border-radius: 200px;
+  width: 400px;
+  height: 100px;
+  position: absolute;
+  left: 1195px;
+  top: 3064px;
+}
+.desktop .rectangle-31 {
+  background: #2d3b36;
+  border-radius: 200px;
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 1205px;
+  top: 3074px;
+}
+.desktop .best-skin-care-product-award-wining {
+  color: #2d3b36;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 1326px;
+  top: 3094px;
+  width: 219px;
+}
+.desktop .rectangle-32 {
+  border-radius: 50px;
+  border-style: dashed;
+  border-color: #2d3b36;
+  border-width: 1px;
+  width: 88px;
+  height: 88px;
+  position: absolute;
+  left: 1201px;
+  top: 3070px;
+  aspect-ratio: 1;
+}
+.desktop .award-svgrepo-com-1 {
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  left: 1220px;
+  top: 3089px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.desktop .mask-group7 {
+  height: auto;
+  position: absolute;
+  left: 100px;
+  top: 7510px;
+  overflow: visible;
+}
+.desktop .plus-large-svgrepo-com-1 {
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  left: 1640px;
+  top: 7980px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.desktop .plus-large-svgrepo-com-3 {
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  left: 1640px;
+  top: 8196px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.desktop .plus-large-svgrepo-com-4 {
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  left: 1640px;
+  top: 8276px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.desktop .plus-large-svgrepo-com-5 {
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  left: 1640px;
+  top: 8356px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.desktop .plus-large-svgrepo-com-2 {
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  left: 1670px;
+  top: 8060px;
+  transform: translate(-30px, 0px);
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.desktop .rectangle-39 {
+  background: #eff5e1;
+  border-radius: 200px;
+  width: 306px;
+  height: 100px;
+  position: absolute;
+  left: 325px;
+  top: 8271px;
+}
+.desktop .rectangle-40 {
+  background: #2d3b36;
+  border-radius: 200px;
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 335px;
+  top: 8281px;
+}
+.desktop ._24-7-we-re-here-to-help-you {
+  color: #2d3b36;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 449px;
+  top: 8301px;
+  width: 152px;
+}
+.desktop .rectangle-41 {
+  border-radius: 50px;
+  border-style: dashed;
+  border-color: #2d3b36;
+  border-width: 1px;
+  width: 88px;
+  height: 88px;
+  position: absolute;
+  left: 331px;
+  top: 8277px;
+  aspect-ratio: 1;
+}
+.desktop .rectangle-42 {
+  background: #2d3b36;
+  width: 1920px;
+  height: 930px;
+  position: absolute;
+  left: 0px;
+  top: 8560px;
+}
+.desktop .join-the-skincare-community-now {
+  color: #e7e8e0;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 60px;
+  letter-spacing: -0.02em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 860px);
+  top: 8760px;
+}
+.desktop .contact-skincare-com {
+  color: #e7e8e0;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 60px;
+  letter-spacing: -0.02em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -276px);
+  top: 8818px;
+}
+.desktop .get-in-touch {
+  color: #e7e8e0;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 30px;
+  letter-spacing: -0.02em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -276px);
+  top: 8776px;
+}
+.desktop .facebook {
+  color: #eff5e1;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 100px;
+  top: 9147px;
+}
+.desktop .terms-of-service {
+  color: #eff5e1;
+  text-align: right;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 1230px;
+  top: 9147px;
+}
+.desktop .instagram {
+  color: #eff5e1;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 286px;
+  top: 9147px;
+}
+.desktop .privacy-policy {
+  color: #eff5e1;
+  text-align: right;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 1475px;
+  top: 9147px;
+}
+.desktop .you-tube {
+  color: #eff5e1;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 473px;
+  top: 9147px;
+}
+.desktop .cookies-policy {
+  color: #eff5e1;
+  text-align: right;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 1694px;
+  top: 9147px;
+}
+.desktop .skincare3 {
+  color: rgba(61, 75, 70, 0.5);
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 420px;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 9262px;
+}
+.desktop .headphone-svgrepo-com-1 {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 355px;
+  top: 8301px;
+  overflow: hidden;
+  aspect-ratio: 1;
+}
+.desktop ._1 {
+  height: auto;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
